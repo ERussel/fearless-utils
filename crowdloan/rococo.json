@@ -6,7 +6,8 @@
     "description": "The best cat is now on Rococo",
     "website": "http://www.nyan.cat/",
     "icon": "https://i.ibb.co/ZHnHKnt/siri.png",
-    "rewardRate": 12
+    "rewardRate": 12,
+    "customFlow": "Karura"
   },
   {
     "paraid": "6666",
